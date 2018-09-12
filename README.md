@@ -1,7 +1,7 @@
 # Tribute-Page
 Working instance: https://wolfriend.github.io/Tribute-Page/
 
-Project from: learn.freecodecamp.org
+Project from: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
 # Responsive Web Design Projects - Build a Tribute Page
 Objective: Build an app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
